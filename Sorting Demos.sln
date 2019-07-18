@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Couting Sort Strings", "Couting Sort Strings\Couting Sort Strings.csproj", "{4D8B9F7A-D2A3-4C8A-9696-2B57EAD1C999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D8B9F7A-D2A3-4C8A-9696-2B57EAD1C999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8B9F7A-D2A3-4C8A-9696-2B57EAD1C999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8B9F7A-D2A3-4C8A-9696-2B57EAD1C999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8B9F7A-D2A3-4C8A-9696-2B57EAD1C999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FD9BC4-A5A1-4D1B-A9AA-D703CB3B5E76}
+	EndGlobalSection
+EndGlobal
